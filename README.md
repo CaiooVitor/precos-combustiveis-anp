@@ -67,23 +67,6 @@ Dados brutos (ANP, 3 semestres) ➔ Python (tratamento) ➔ SQL (análise) ➔ P
 
 ## 📁 Estrutura do repositório
 
-```text
-├── assets/              # Imagens e prints para documentação do README
-│   ├── dashboard_visao_geral.png
-│   └── dashboard_rankings.png
-├── dados/
-│   ├── brutos/          # CSVs originais da ANP (não versionados via .gitignore)
-│   └── tratados/        # CSV limpo + banco SQLite (não versionados via .gitignore)
-├── notebooks/
-│   ├── 01_exploracao.ipynb
-│   ├── 02_tratamento.ipynb
-│   ├── 03_carga_sql.ipynb
-│   └── 04_analises.ipynb
-├── sql/                 # Queries analíticas (.sql)
-├── powerbi/             # Dashboard (.pbix)
-├── .gitignore           # Ignora bases de dados e arquivos temporários
-└── README.md
-
 > **⚠️ Nota sobre a pasta de dados:** Devido às limitações de tamanho de arquivos do GitHub e seguindo as boas práticas de versionamento de código, os arquivos das pastas `dados/brutos/` e `dados/tratados/` foram omitidos do repositório via `.gitignore`. 
 
 ---
