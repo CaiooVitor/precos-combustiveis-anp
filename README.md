@@ -58,10 +58,10 @@ Dados brutos (ANP, 3 semestres) ➔ Python (tratamento) ➔ SQL (análise) ➔ P
 ## 🖥️ Dashboard / Visualização
 
 ### Visão Geral e Evolução Temporal
-![Painel Geral do Power BI](assets/dashboard.png)
+![Painel Geral do Power BI](Assets/dashboard.png)
 
 ### Rankings de Municípios e Comparativo Regional
-![Rankings e Comparativos do Power BI](assets/dashboard2.png)
+![Rankings e Comparativos do Power BI](Assets/dashboard2.png)
 
 ---
 
