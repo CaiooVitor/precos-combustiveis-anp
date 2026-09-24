@@ -69,25 +69,25 @@ Dados brutos (ANP, 3 semestres) ➔ Python (tratamento) ➔ SQL (análise) ➔ P
 
 precos-combustiveis-anp/
 ├── Assets/
-│ ├── dashboard.png
-│ └── dashboard2.png
+│   ├── dashboard.png
+│   └── dashboard2.png
 ├── dados/
-│ ├── brutos/ # CSVs originais da ANP (não versionado)
-│ └── tratados/ # CSV limpo + banco SQLite (não versionado)
+│   ├── brutos/          # CSVs originais da ANP (não versionado)
+│   └── tratados/         # CSV limpo + banco SQLite (não versionado)
 ├── notebooks/
-│ ├── 01_exploracao.ipynb
-│ ├── 02_tratamento.ipynb
-│ ├── 03_carga_sql.ipynb
-│ └── 04_analises.ipynb
+│   ├── 01_exploracao.ipynb
+│   ├── 02_tratamento.ipynb
+│   ├── 03_carga_sql.ipynb
+│   └── 04_analises.ipynb
 ├── sql/
-│ ├── preco_medio_UF.sql
-│ ├── variacao_mensal.sql
-│ ├── variacao_percentual_mes.sql
-│ ├── ranking_caras.sql
-│ ├── ranking_baratas.sql
-│ └── minas_vs_media_geral.sql
+│   ├── preco_medio_UF.sql
+│   ├── variacao_mensal.sql
+│   ├── variacao_percentual_mes.sql
+│   ├── ranking_caras.sql
+│   ├── ranking_baratas.sql
+│   └── minas_vs_media_geral.sql
 ├── powerbi/
-│ └── dashboard_precos_combustiveis.pbix
+│   └── dashboard_precos_combustiveis.pbix
 ├── .gitignore
 └── README.md
 
